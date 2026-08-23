@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 # Python-Package-Installer-for-Windows
 
 一个面向 Windows 用户的 Python 可视化包安装工具。
